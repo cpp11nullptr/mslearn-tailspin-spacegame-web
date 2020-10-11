@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TailSpinDemoOrg/SpaceGameWebWorkflow/_apis/build/status/SpaceGameWebPipeline?branchName=master)](https://dev.azure.com/TailSpinDemoOrg/SpaceGameWebWorkflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
